@@ -13,15 +13,6 @@
 
 ### 1. The Project
 <img width="1792" height="2400" alt="Project pic " src="https://github.com/user-attachments/assets/48afa407-32bd-40bc-a96e-9b5483dcdbfc" />
-<img width="1792" height="2400" alt="Project pic " src="https://github.com/user-attachments/assets/48afa407-32bd-40bc-a96e-9b5483dcdbfc" />
-
-### 2. Concept Design
-![3D Concept](LINK_TO_YOUR_BLUE_BASE_DESIGN_HERE)
-*Proposed mechanical housing and base design for the Sentry Unit.*
-
-### 3. Hardware Prototype
-![Hardware Setup](LINK_TO_YOUR_REAL_PHOTO_HERE)
-*Current working prototype powered by Arduino UNO.*
 
 ##  Project Overview
 The **SONIC V1** is a real-time radar system inspired by biological echolocation (bats) and military tracking interfaces (Iron Man J.A.R.V.I.S.). Unlike passive radars, this unit features **"Active Sentry Mode"**: it autonomously scans the environment, detects intruders within a 15cm perimeter, locks onto the target, and triggers an audio-visual alarm.
